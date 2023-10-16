@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ProyectoMovilLuis</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="android">Android</string>
+    <string name="version">Version 1.0</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="siguiente">Siguiente</string>
 </resources>
